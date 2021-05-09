@@ -1,0 +1,44 @@
+Resources: 
+---------------------------------------------------------------------------------------------------------------------------------------------
+Examples in github:									https://github.com/wesm/pydata-book
+Numerical python:									https://numpy.org/
+data structures in python:							https://pandas.pydata.org/
+Two dimensional data visualization in python:		https://matplotlib.org/
+Python interpreter:									https://ipython.org/
+Language agnostic interactive  computing tools:		https://jupyter.org/
+Scientific computing:								https://scipy.org/
+														scipy.integrate - Numerical integration routines and differential equation solvers
+														scipy.linalg	- Linear algebra routines and matrix decompositions (beyond those provided in numpy.linalg)
+														scipy.optimize	- Function optimizers (minimizers) and root finding algorithms 
+														scipy.signal	- Signal processing tools
+														scipy.sparse	- Sparse matrices and sparse linear system solvers
+														scipy.special	- Wrapper around SPECFUN, a Fortran library implemneting many common mathematical functions, such as gamma function
+														scipy.stats		- Continuous and discrete probability distributions (density functions, samplers, continuous distribution functions), various statistical tests, ad descriptive statistics
+Machne learning in python:							https://scikit-learn.org/stable/
+														Classification				- SVM, nearest neighbors, random forest, logistic regression, etc
+														Regression					- Lasso, ridge regression, etc
+														Clustering					- k-means, spectral clsustering, etc
+														Dimensionality reduction	- PCA, feature selection, matric factorizatoin, etc
+														Model selection				- Gris search, cross-validation, metrics
+														Preprocessing				- Feature extraction, normalization
+Statistical analysis package:						https://www.statsmodels.org/stable/index.html
+														Regression models:		- Linear regression, general lineral models, robust linear models, linear mixed effects models, etc. 
+														Analysis of variance:	- ANOVA
+														Time series analysis:	- AR, ARMA, ARIMA, VAR
+														Nonparametric methods:	- Kernel density estimation, kernel regression
+														Visualization of statistical model results
+Install packages with conda command:	conda install package_name
+Update package with conda command:		conda update package_name
+
+Community: 
+Google group for data analysis and pandas:					pydata
+Google group for statsmodels and panda-related questions:	pystatsmodels
+Mailing list for scikit-learn:								scikit-learn@python.org
+NumPy-related questions:									numpy-discussion
+General SciPy or scientific python questions:				scipy-user (email: scipy-user@python.org --- general info: https://mail.python.org/mailman/listinfo/scipy-user)
+
+Conferences: 
+PyCon and EuroPython
+SciPy and EuroSciPy
+PyData
+International and regional PyCon conferences: 
